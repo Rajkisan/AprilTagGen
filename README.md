@@ -37,7 +37,7 @@ python apriltag_app.py
 
 2.	Download a standalone executable:
 
-	•	🔗 Download for Windows,MacOS from Releases
+	•	[🔗 Download for Windows,MacOS from Releases](https://github.com/Rajkisan/AprilTagGen/releases/tag/v1.0.1)
 
 
 ⸻
@@ -47,7 +47,7 @@ python apriltag_app.py
 Contributions are welcome! Feel free to submit issues or pull requests.
 
 If you find this project useful, consider supporting me:
-☕️ Buy Me a Coffee
+[☕️ Buy Me a Coffee](https://coff.ee/rajkisans)
 
 ⸻
 
